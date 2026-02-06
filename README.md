@@ -39,9 +39,13 @@ This project deliberately separates:
 
 
 Client → FastAPI → Executor
+
 ↓
+
 Backend / ML / Security / Infra Agents
+
 ↓
+
 Lead Agent
 
 
